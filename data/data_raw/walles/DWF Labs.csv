@@ -1,0 +1,101 @@
+;+#;Nombre;Precio;1h %;24 h %;7d %;Cap. de Mercado;Volumen (24h);Acciones en circulación
+0;8;Toncoin TON;$6.51;-0.16%;+6.35%;-9.66%;$22.59B $22,593,022,781;$437,280,650 66,892,742 TON;3,471,093,255 TON
+1;14;TRON TRX;$0.1094;+0.20%;-0.48%;-9.09%;$9.58B $9,580,899,655;$358,200,233 3,276,483,219 TRX;87,611,180,280 TRX
+2;26;Mantle MNT;$1.17;+0.89%;+1.56%;-7.79%;$3.83B $3,831,151,068;$83,247,187 70,870,628 MNT;3,264,441,708 MNT
+3;54;Fetch.ai FET;$2.05;+0.53%;+3.67%;-19.20%;$1.74B $1,739,041,222;$203,778,771 99,123,542 FET;848,544,853 FET
+4;59;Algorand ALGO;$0.1748;+0.23%;+3.68%;-22.97%;$1.42B $1,421,317,269;$53,987,927 307,465,937 ALGO;8,130,165,368 ALGO
+5;62;Beam BEAM;$0.02618;+0.06%;+2.57%;-17.46%;$1.39B $1,386,422,849;$32,277,776 1,229,624,822 BEAM;52,957,876,210 BEAM
+6;63;Gala GALA;$0.04444;+1.10%;+10.53%;-23.74%;$1.35B $1,353,899,398;$191,096,976 4,288,963,326 GALA;30,465,044,951 GALA
+7;64;FLOKI FLOKI;$0.0001385;+0.46%;+3.98%;-27.48%;$1.32B $1,324,529,628;$135,352,468 974,484,365,311 FLOKI;9,568,393,313,435 FLOKI
+8;71;Flare FLR;$0.03206;-1.05%;+1.04%;-14.45%;$1.24B $1,237,104,091;$11,099,605 341,730,270 FLR;38,590,224,292 FLR
+9;73;MultiversX EGLD;$40.86;+0.33%;+3.19%;-20.85%;$1.1B $1,096,312,932;$25,156,948 614,186 EGLD;26,833,769 EGLD
+10;82;Bonk BONK;$0.00001478;+0.45%;+6.04%;-31.18%;$963.33M $963,331,272;$90,093,863 6,067,644,219,346 BONK;65,191,332,386,576 BONK
+11;86;Synthetix SNX;$2.87;+0.66%;+2.82%;-25.37%;$940.18M $940,184,140;$34,472,784 11,985,454 SNX;327,769,196 SNX
+12;88;JasmyCoin JASMY;$0.01853;+0.60%;+3.40%;-19.01%;$913.33M $913,334,337;$64,593,273 3,473,812,960 JASMY;49,299,999,677 JASMY
+13;92;Conflux CFX;$0.2291;-0.45%;-1.20%;-34.34%;$903.11M $903,105,351;$41,213,344 178,838,084 CFX;3,941,396,126 CFX
+14;96;EOS EOS;$0.7624;+0.24%;+4.36%;-31.65%;$856.43M $856,431,782;$120,072,607 157,109,099 EOS;1,123,400,647 EOS
+15;101;Kava KAVA;$0.6718;+0.48%;+4.38%;-27.48%;$727.43M $727,431,420;$18,994,487 28,251,368 KAVA;1,082,860,622 KAVA
+16;102;IOTA IOTA;$0.2237;+0.23%;+4.31%;-26.12%;$722.39M $722,391,067;$17,455,251 77,859,824 IOTA;3,229,505,319 IOTA
+17;;AIOZ Network AIOZ;$  0.64;;;;;;
+18;;Radix XRD;$  0.05;;;;;;
+19;;Curve DAO Token CRV;$  0.43;;;;;;
+20;;Celo CELO;$  0.81;;;;;;
+21;;SPACE ID ID;$  0.74;;;;;;
+22;;Biconomy BICO;$  0.52;;;;;;
+23;;Galxe GAL;$  3.43;;;;;;
+24;;Metis METIS;$  59.38;;;;;;
+25;;Mask Network MASK;$  3.40;;;;;;
+26;;Yield Guild Games YGG;$  0.85;;;;;;
+27;;Waves WAVES;$  2.55;;;;;;
+28;;BinaryX BNX;$  0.79;;;;;;
+29;;Creditcoin CTC;$  0.75;;;;;;
+30;;Beldex BDX;$  0.04;;;;;;
+31;;Alchemy Pay ACH;$  0.03;;;;;;
+32;;ALEX Lab ALEX;$  0.34;;;;;;
+33;;RSS3 RSS3;$  0.37;;;;;;
+34;;Coin98 C98;$  0.28;;;;;;
+35;;Marlin POND;$  0.02;;;;;;
+36;;GuildFi GF;$  0.31;;;;;;
+37;;COTI COTI;$  0.11;;;;;;
+38;;CyberConnect CYBER;$  8.71;;;;;;
+39;;Syscoin SYS;$  0.22;;;;;;
+40;;Prom PROM;$  9.45;;;;;;
+41;;Seedify.fund SFUND;$  2.83;;;;;;
+42;;Unizen ZCX;$  0.24;;;;;;
+43;;World Mobile Token WMT;$  0.31;;;;;;
+44;;Oraichain ORAI;$  11.32;;;;;;
+45;;Phala Network PHA;$  0.20;;;;;;
+46;;Vulcan Forged (PYR) PYR;$  4.92;;;;;;
+47;;Zignaly ZIG;$  0.09;;;;;;
+48;;MVL MVL;$  0.01;;;;;;
+49;;Hashflow HFT;$  0.31;;;;;;
+50;;Aurora AURORA;$  0.27;;;;;;
+51;;Orbs ORBS;$  0.04;;;;;;
+52;;Bounce Token AUCTION;$  17.69;;;;;;
+53;;Highstreet HIGH;$  2.26;;;;;;
+54;;MAP Protocol MAPO;$  0.03;;;;;;
+55;;CUDOS CUDOS;$  0.02;;;;;;
+56;;TokenFi TOKEN;$  0.10;;;;;;
+57;;Bifrost BFC;$  0.07;;;;;;
+58;;MOBOX MBOX;$  0.30;;;;;;
+59;;DODO DODO;$  0.15;;;;;;
+60;;Spell Token SPELL;$  0.00;;;;;;
+61;;MARBLEX MBX;$  0.77;;;;;;
+62;;RACA RACA;$  0.00;;;;;;
+63;;ARPA ARPA;$  0.07;;;;;;
+64;;Adventure Gold AGLD;$  1.12;;;;;;
+65;;Velo VELO;$  0.01;;;;;;
+66;;GameFi.org GAFI;$  7.79;;;;;;
+67;;MovieBloc MBL;$  0.00;;;;;;
+68;;Staika STIK;$  2.60;;;;;;
+69;;ArbDoge AI AIDOGE;$  0.00;;;;;;
+70;;Viction VIC;$  0.75;;;;;;
+71;;LeverFi LEVER;$  0.00;;;;;;
+72;;NULS NULS;$  0.67;;;;;;
+73;;Frontier FRONT;$  0.72;;;;;;
+74;;Cobak Token CBK;$  0.78;;;;;;
+75;;Function X FX;$  0.15;;;;;;
+76;;Bella Protocol BEL;$  0.94;;;;;;
+77;;Polytrade TRADE;$  1.85;;;;;;
+78;;Measurable Data Token MDT;$  0.08;;;;;;
+79;;Kin KIN;$  0.00;;;;;;
+80;;Linear Finance LINA;$  0.01;;;;;;
+81;;Dego Finance DEGO;$  2.27;;;;;;
+82;;CEEK VR CEEK;$  0.06;;;;;;
+83;;Shrapnel SHRAP;$  0.18;;;;;;
+84;;Sentinel Protocol UPP;$  0.08;;;;;;
+85;;Quickswap [New] QUICK;$  0.06;;;;;;
+86;;Litentry LIT;$  1.03;;;;;;
+87;;Bonfida FIDA;$  0.32;;;;;;
+88;;Turbo TURBO;$  0.00;;;;;;
+89;;Aurory AURY;$  0.65;;;;;;
+90;;UniLend UFT;$  0.42;;;;;;
+91;;QuickSwap [Old] QUICK;$  62.06;;;;;;
+92;;XPR Network XPR;$  0.00;;;;;;
+93;;Nine Chronicles WNCG;$  0.08;;;;;;
+94;;Onomy Protocol NOM;$  0.30;;;;;;
+95;;Sperax SPA;$  0.02;;;;;;
+96;;AirDAO AMB;$  0.01;;;;;;
+97;;Carbon browser CSIX;$  0.06;;;;;;
+98;;ICHI ICHI;$  2.46;;;;;;
+99;;Symbiosis SIS;$  0.33;;;;;;
